@@ -9,6 +9,11 @@
   "keywords": [
     "数组去重"
   ],
+  "repository" :
+  { 
+    "type" : "git",
+    "url" : "https://github.com/zhijs/obArr-rm-repeat"
+  },
   "author": "zhijs",
   "license": "MIT"
 }
