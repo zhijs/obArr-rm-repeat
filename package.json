@@ -1,6 +1,6 @@
 {
   "name": "arr-rm-repeat",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "对象数组根据某个属性值去重",
   "main": "lib/index.js",
   "scripts": {
